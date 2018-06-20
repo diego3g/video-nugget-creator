@@ -1,0 +1,5 @@
+node_modules
+
+src/tmp/*.mp4
+!src/tmp/.gitkeep
+
